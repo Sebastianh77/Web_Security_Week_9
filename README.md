@@ -22,7 +22,7 @@ Steps:
 -Faced Alot of issue with the installlation part specially with setting up the firewall on windows. It just kept me waiting for a very long time (over 30 mins).
 -Milestone also took longer tha expected: (About an hour and 20 minutes).
 -Getting through the Firewall also took some time.
--was unable to extract the json files. the commands didnt work on my device.
+-was unable to extract the json files at first. the commands didnt work on my device at first (had to write sudo mongoexport --db mnemosyne --collection session > session.json to get around it).
 
 
 
