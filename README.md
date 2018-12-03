@@ -1,19 +1,28 @@
 # WebSecurity Project Week 9- Honeypot
 
-Time Spend: x hours in total
+Time Spend: 10 hours in total
 
 > Objective: Setup a honeypot and intercept some attempted attacks in the wild.
 
 ## Honeypot Information
+Honeypot Deployed:Honeypot (Dionaea with HTTP)
+Data found:
+
 
 
 ## Walkthrough of Attack and Detection
+Steps:
+-nmap the External Ip of the Honeypot.
+-Go to the Admin Dashboard and the new Attack should be displayed.
+ ![](Honeypot.gif)
 
 
-## Recording of Data Collected
 
 ## Notes
-(Here record any Issues I might run into)
+-Faced Alot of issue with the installlation part specially with setting up the firewall on windows. It just kept me waiting for a very long time (over 30 mins).
+-Milestone also took longer tha expected: (About an hour and 20 minutes).
+-Getting through the Firewall also took some time.
+
 
 
 
